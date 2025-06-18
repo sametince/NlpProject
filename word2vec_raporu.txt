@@ -1,0 +1,192 @@
+Model: word2vec_lemmatized_cbow_pencere2_boyut100.model
+Veri seti: lemmatized
+Pencere: 2, Vektör boyutu: 100, Model tipi: cbow
+Eğitim süresi: 0.89 saniye
+Model boyutu: 23.04 MB
+Benzer kelimeler:
+  xamztargetamazonforecastcreatepredictorbacktestexportjob -> 0.4117
+  achievementid -> 0.3746
+  xamztargethealthlaketagresource -> 0.3710
+  xamztargetstarlingdoveservicegetorganizationcustomrulepolicy -> 0.3690
+  actiondownloaddblogfileportion -> 0.3602
+----------------------------------------
+Model: word2vec_lemmatized_skipgram_pencere2_boyut100.model
+Veri seti: lemmatized
+Pencere: 2, Vektör boyutu: 100, Model tipi: skipgram
+Eğitim süresi: 0.76 saniye
+Model boyutu: 23.04 MB
+Benzer kelimeler:
+  xamztargetamazonforecastcreatepredictorbacktestexportjob -> 0.4079
+  xamztargethealthlaketagresource -> 0.3859
+  achievementid -> 0.3756
+  actiondownloaddblogfileportion -> 0.3729
+  xamztargetsagemakerlistinferenceexperiments -> 0.3642
+----------------------------------------
+Model: word2vec_lemmatized_cbow_pencere4_boyut100.model
+Veri seti: lemmatized
+Pencere: 4, Vektör boyutu: 100, Model tipi: cbow
+Eğitim süresi: 0.79 saniye
+Model boyutu: 23.04 MB
+Benzer kelimeler:
+  xamztargetamazonforecastcreatepredictorbacktestexportjob -> 0.4109
+  achievementid -> 0.3752
+  xamztargethealthlaketagresource -> 0.3733
+  themevideos -> 0.3706
+  xamztargetstarlingdoveservicegetorganizationcustomrulepolicy -> 0.3662
+----------------------------------------
+Model: word2vec_lemmatized_skipgram_pencere4_boyut100.model
+Veri seti: lemmatized
+Pencere: 4, Vektör boyutu: 100, Model tipi: skipgram
+Eğitim süresi: 0.73 saniye
+Model boyutu: 23.04 MB
+Benzer kelimeler:
+  xamztargetamazonforecastcreatepredictorbacktestexportjob -> 0.4140
+  achievementid -> 0.3740
+  xamztargetstarlingdoveservicegetorganizationcustomrulepolicy -> 0.3705
+  xamztargethealthlaketagresource -> 0.3696
+  themevideos -> 0.3599
+----------------------------------------
+Model: word2vec_lemmatized_cbow_pencere2_boyut300.model
+Veri seti: lemmatized
+Pencere: 2, Vektör boyutu: 300, Model tipi: cbow
+Eğitim süresi: 0.99 saniye
+Model boyutu: 66.75 MB
+Benzer kelimeler:
+  tagsandregions -> 0.2346
+  zap -> 0.2237
+  deviceappmanagementtasks -> 0.2180
+  xamztargetiotthingsgraphfrontendserviceundeploysysteminstance -> 0.2141
+  calculatecosine -> 0.2108
+----------------------------------------
+Model: word2vec_lemmatized_skipgram_pencere2_boyut300.model
+Veri seti: lemmatized
+Pencere: 2, Vektör boyutu: 300, Model tipi: skipgram
+Eğitim süresi: 0.93 saniye
+Model boyutu: 66.75 MB
+Benzer kelimeler:
+  tagsandregions -> 0.2346
+  deviceappmanagementtasks -> 0.2341
+  zap -> 0.2194
+  xamztargetiotthingsgraphfrontendserviceundeploysysteminstance -> 0.2136
+  calculatecosine -> 0.2108
+----------------------------------------
+Model: word2vec_lemmatized_cbow_pencere4_boyut300.model
+Veri seti: lemmatized
+Pencere: 4, Vektör boyutu: 300, Model tipi: cbow
+Eğitim süresi: 1.02 saniye
+Model boyutu: 66.75 MB
+Benzer kelimeler:
+  deviceappmanagementtasks -> 0.2197
+  xamztargetiotthingsgraphfrontendserviceundeploysysteminstance -> 0.2152
+  oprs -> 0.2108
+  tagsandregions -> 0.2086
+  peoplesearchcontacts -> 0.2078
+----------------------------------------
+Model: word2vec_lemmatized_skipgram_pencere4_boyut300.model
+Veri seti: lemmatized
+Pencere: 4, Vektör boyutu: 300, Model tipi: skipgram
+Eğitim süresi: 0.74 saniye
+Model boyutu: 66.75 MB
+Benzer kelimeler:
+  deviceappmanagementtasks -> 0.2351
+  tagsandregions -> 0.2336
+  zap -> 0.2197
+  xamztargetiotthingsgraphfrontendserviceundeploysysteminstance -> 0.2147
+  oprs -> 0.2116
+----------------------------------------
+Model: word2vec_stemmed_cbow_pencere2_boyut100.model
+Veri seti: stemmed
+Pencere: 2, Vektör boyutu: 100, Model tipi: cbow
+Eğitim süresi: 0.71 saniye
+Model boyutu: 22.15 MB
+Benzer kelimeler:
+  queryflowlogstatu -> 0.4794
+  betatesterinvit -> 0.4712
+  actiondescribeoptiongroup -> 0.4700
+  interconnectloc -> 0.4664
+  connectorgroup -> 0.4631
+----------------------------------------
+Model: word2vec_stemmed_skipgram_pencere2_boyut100.model
+Veri seti: stemmed
+Pencere: 2, Vektör boyutu: 100, Model tipi: skipgram
+Eğitim süresi: 0.64 saniye
+Model boyutu: 22.15 MB
+Benzer kelimeler:
+  profilejob -> 0.4045
+  getcontenttyp -> 0.3918
+  betatesterinvit -> 0.3719
+  policytrackedresourc -> 0.3635
+  xamztargetspencerfrontendserviceinitiatelayerupload -> 0.3521
+----------------------------------------
+Model: word2vec_stemmed_cbow_pencere4_boyut100.model
+Veri seti: stemmed
+Pencere: 4, Vektör boyutu: 100, Model tipi: cbow
+Eğitim süresi: 0.76 saniye
+Model boyutu: 22.15 MB
+Benzer kelimeler:
+  profilejob -> 0.4132
+  corpor -> 0.3802
+  getcontenttyp -> 0.3765
+  codescan -> 0.3670
+  connect -> 0.3653
+----------------------------------------
+Model: word2vec_stemmed_skipgram_pencere4_boyut100.model
+Veri seti: stemmed
+Pencere: 4, Vektör boyutu: 100, Model tipi: skipgram
+Eğitim süresi: 0.65 saniye
+Model boyutu: 22.15 MB
+Benzer kelimeler:
+  profilejob -> 0.4059
+  getcontenttyp -> 0.3931
+  betatesterinvit -> 0.3719
+  policytrackedresourc -> 0.3644
+  ci -> 0.3619
+----------------------------------------
+Model: word2vec_stemmed_cbow_pencere2_boyut300.model
+Veri seti: stemmed
+Pencere: 2, Vektör boyutu: 300, Model tipi: cbow
+Eğitim süresi: 1.01 saniye
+Model boyutu: 64.25 MB
+Benzer kelimeler:
+  contractualrelationship -> 0.5135
+  actioncreatesnapshot -> 0.5085
+  xamztargetawsgluegett -> 0.5085
+  dismiss -> 0.5027
+  whitelist -> 0.4938
+----------------------------------------
+Model: word2vec_stemmed_skipgram_pencere2_boyut300.model
+Veri seti: stemmed
+Pencere: 2, Vektör boyutu: 300, Model tipi: skipgram
+Eğitim süresi: 0.72 saniye
+Model boyutu: 64.25 MB
+Benzer kelimeler:
+  firewallpolici -> 0.5151
+  externalvpngateway -> 0.5077
+  usertasklist -> 0.5032
+  rtitransact -> 0.5016
+  acl -> 0.4964
+----------------------------------------
+Model: word2vec_stemmed_cbow_pencere4_boyut300.model
+Veri seti: stemmed
+Pencere: 4, Vektör boyutu: 300, Model tipi: cbow
+Eğitim süresi: 1.02 saniye
+Model boyutu: 64.25 MB
+Benzer kelimeler:
+  arg -> 0.5385
+  firewallpolici -> 0.5264
+  account -> 0.5189
+  delegatedprovid -> 0.5166
+  revers -> 0.5119
+----------------------------------------
+Model: word2vec_stemmed_skipgram_pencere4_boyut300.model
+Veri seti: stemmed
+Pencere: 4, Vektör boyutu: 300, Model tipi: skipgram
+Eğitim süresi: 0.72 saniye
+Model boyutu: 64.25 MB
+Benzer kelimeler:
+  account -> 0.5105
+  customeraddress -> 0.4994
+  sim -> 0.4989
+  userjson -> 0.4978
+  eventconfigurationsresourcetyp -> 0.4968
+----------------------------------------
