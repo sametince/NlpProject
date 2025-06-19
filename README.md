@@ -38,7 +38,7 @@ Kullanım
 
 Tüm analizleri çalıştırmak için:
 ```bash
-python tum_benzerlik_analizi.py
+python benzerlik.py
 ```
 Bu komut ile:
 - TF-IDF ve Word2Vec modelleri yüklenir
